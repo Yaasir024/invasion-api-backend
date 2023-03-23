@@ -1,0 +1,240 @@
+[
+  {
+    "id": "1a2b3c4d5e6f",
+    "name": "Eiffel Tower",
+    "slug": "eiffel-tower",
+    "state": "Île-de-France",
+    "country": "France",
+    "continent": "Europe",
+    "address": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris, France",
+    "description": "Iconic tower in Paris, offering panoramic views of the city from its observation decks.",
+    "rating": 4.5,
+    "guide": "Be sure to buy tickets in advance to skip the long lines. The best views are from the top observation deck, but be prepared for crowds.",
+    "perks": [
+      "Spectacular views of Paris",
+      "Iconic photo opportunities",
+      "Onsite restaurants and souvenir shops"
+    ],
+    "created_at": "2022-02-21T08:00:00.000Z"
+  },
+  {
+    "id": "7f6e5d4c3b2a1",
+    "name": "Palace of Versailles",
+    "slug": "palace-of-versailles",
+    "state": "Île-de-France",
+    "country": "France",
+    "continent": "Europe",
+    "address": "Place d'Armes, 78000 Versailles, France",
+    "description": "Grand palace and gardens built for King Louis XIV, with opulent decor, fountains, and manicured lawns.",
+    "rating": 4.7,
+    "guide": "Get there early to avoid crowds and give yourself enough time to see all the highlights, including the Hall of Mirrors and the gardens.",
+    "perks": [
+      "Opulent decor and architecture",
+      "Beautiful gardens with fountains and statues",
+      "Audio guide available in multiple languages"
+    ],
+    "created_at": "2023-03-23T08:00:00.000Z"
+  },
+  {
+    "id": "abcdef123456",
+    "name": "Mont Saint-Michel",
+    "slug": "mont-saint-michel",
+    "state": "Normandy",
+    "country": "France",
+    "continent": "Europe",
+    "address": "50170 Le Mont-Saint-Michel, France",
+    "description": "A rocky island topped by a medieval monastery, accessible by a causeway at low tide.",
+    "rating": 4.2,
+    "guide": "Check the tide schedule before you go, as the causeway can be submerged at high tide. Wear comfortable shoes for climbing the steep steps to the top.",
+    "perks": [
+      "Unique island location and architecture",
+      "Stunning views of the coast and surrounding countryside",
+      "Onsite restaurants and shops selling local specialties"
+    ],
+    "created_at": "2023-03-23T08:01:00.000Z"
+  },
+  {
+    "id": "654321fedcba",
+    "name": "Chateau de Chambord",
+    "slug": "chateau-de-chambord",
+    "state": "Centre-Val de Loire",
+    "country": "France",
+    "continent": "Europe",
+    "address": "Château, 41250 Chambord, France",
+    "description": "Grand Renaissance-style castle built in the 16th century, with ornate architecture and extensive gardens.",
+    "rating": 4.4,
+    "guide": "Take a guided tour to learn more about the history and architecture of the castle, and don't miss the rooftop terrace for great views.",
+    "perks": [
+      "Ornate Renaissance architecture",
+      "Extensive gardens and parkland",
+      "Audio guide available in multiple languages"
+    ],
+    "created_at": "2023-02-23T08:02:00.000Z"
+  },
+  {
+    "id": "3e4f5a2b1c9d8",
+    "name": "Cote d'Azur",
+    "slug": "cote-d-azur",
+    "state": "Provence-Alpes-Côte d'Azur",
+    "country": "France",
+    "continent": "Europe",
+    "address": "French Riviera, France",
+    "description": "Stunning coastline with azure waters and picturesque towns, including Nice, Cannes, and Saint-Tropez.",
+    "rating": 4.6,
+    "guide": "Take a drive along the coast to enjoy the scenery, and be sure to stop in some of the charming towns for local cuisine and shopping.",
+    "perks": [
+      "Explore the beautiful coastal scenery of the French Riviera",
+      "Visit glamorous cities and towns like Cannes, Nice, and Monaco",
+      "Experience the luxurious lifestyle of the rich and famous",
+      "Taste delicious Mediterranean cuisine and local wines",
+      "Relax on stunning beaches and swim in crystal-clear waters"
+    ],
+    "created_at": "2022-01-23T08:00:00.000Z"
+  },
+  {
+    "id": "7c8b6d5e4f3a2",
+    "name": "Tokyo Tower",
+    "slug": "tokyo-tower",
+    "state": "Tokyo",
+    "country": "Japan",
+    "continent": "Asia",
+    "address": "4 Chome-2-8 Shibakoen, Minato City, Tokyo 105-0011, Japan",
+    "description": "Iconic tower in Tokyo, offering panoramic views of the city from its observation decks.",
+    "rating": 4.3,
+    "guide": "Be sure to buy tickets in advance to skip the long lines. The best views are from the top observation deck, but be prepared for crowds.",
+    "perks": [
+      "Spectacular views of Tokyo",
+      "Iconic photo opportunities",
+      "Onsite restaurants and souvenir shops"
+    ],
+    "created_at": "2023-03-23T08:05:00.000Z"
+  },
+  {
+    "id": "9a8b7c6d5e4f3",
+    "name": "Kyoto Imperial Palace",
+    "slug": "kyoto-imperial-palace",
+    "state": "Kyoto",
+    "country": "Japan",
+    "continent": "Asia",
+    "address": "Kyoto Gyoen, Kamigyo Ward, Kyoto, 602-0881, Japan",
+    "description": "Grand palace in Kyoto, once the residence of the Emperor of Japan, with beautiful gardens and architecture.",
+    "rating": 4.6,
+    "guide": "Take a guided tour to learn more about the history and architecture of the palace, and don't miss the gardens, which are especially beautiful in cherry blossom season.",
+    "perks": [
+      "Ornate architecture and decor",
+      "Beautiful gardens with seasonal flowers",
+      "Audio guide available in multiple languages"
+    ],
+    "created_at": "2024-03-23T08:00:00.000Z"
+  },
+  {
+    "id": "1q2w3e4r5t6y",
+    "name": "Himeji Castle",
+    "slug": "himeji-castle",
+    "state": "Hyogo",
+    "country": "Japan",
+    "continent": "Asia",
+    "address": "68 Honmachi, Himeji, Hyogo 670-0012, Japan",
+    "description": "Beautiful castle in Himeji, known for its white exterior and impressive defensive features.",
+    "rating": 4.8,
+    "guide": "Take a guided tour to learn more about the history and architecture of the castle, and be sure to climb to the top for stunning views of the city and surrounding countryside.",
+    "perks": [
+      "Impressive defensive features and strategic design",
+      "Stunning views of Himeji and the countryside",
+      "Audio guide available in multiple languages"
+    ],
+    "created_at": "2022-03-23T08:08:00.000Z"
+  },
+  {
+    "id": "7y6t5r4e3w2q1",
+    "name": "Fushimi Inari Shrine",
+    "slug": "fumishi-inari-shrine",
+    "state": "Kyoto",
+    "country": "Japan",
+    "continent": "Asia",
+    "address": "68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882, Japan",
+    "description": "Popular shrine in Kyoto, known for its thousands of torii gates leading up a mountainside trail.",
+    "rating": 4.5,
+    "guide": "Wear comfortable shoes for climbing the steep trail, and bring water and snacks. The gates are especially beautiful at sunset.",
+    "perks": [
+      "Thousands of torii gates for a unique photo opportunity",
+      "Beautiful mountain trail with stunning views",
+      "Cultural and spiritual significance"
+    ],
+    "created_at": "2023-03-21T08:00:00.000Z"
+  },
+  {
+    "id": "0a1b2c3d4e5f6",
+    "name": "Mount Fuji",
+    "slug": "mount-fuji",
+    "state": "Yamanashi",
+    "country": "Japan",
+    "continent": "Asia",
+    "address": "Yamanashi, Japan",
+    "description": "Iconic volcano and mountain in Japan, offering stunning views and hiking opportunities.",
+    "rating": 4.7,
+    "guide": "Check the weather before you go, as the mountain can be shrouded in clouds. Consider taking the Fujikyu Railway for spectacular views of the mountain.",
+    "perks": [
+      "Stunning views of Japan's highest mountain",
+      "Opportunities for hiking and outdoor activities",
+      "Chances to explore the surrounding national park",
+      "Visits to nearby lakes, shrines, and temples",
+      "Rich cultural and historical heritage"
+    ],
+    "created_at": "2023-03-23T08:02:00.000Z"
+  },
+  {
+    "id": "6f5e4d3c2b1a0",
+    "name": "Gyeongbokgung Palace",
+    "slug": "gyeongbokgung-palace",
+    "state": "Seoul",
+    "country": "South Korea",
+    "continent": "Asia",
+    "address": "161 Sajik-ro, Jongno-gu, Seoul, South Korea",
+    "description": "Historic palace in Seoul, known for its grand architecture and beautiful gardens.",
+    "rating": 4.6,
+    "guide": "Take a guided tour to learn more about the history and significance of the palace. Don't miss the changing of the guard ceremony, which happens multiple times a day.",
+    "perks": [
+      "Ornate architecture and decor",
+      "Beautiful gardens and courtyards",
+      "Cultural and historical significance"
+    ],
+    "created_at": "2023-03-23T08:00:00.000Z"
+  },
+  {
+    "id": "0123456789ab",
+    "name": "Jeju Island",
+    "slug": "jeju-island",
+    "state": "Jeju Province",
+    "country": "South Korea",
+    "continent": "Asia",
+    "address": "Jeju Island, South Korea",
+    "description": "Beautiful island in South Korea, known for its stunning natural beauty and unique culture.",
+    "rating": 4.8,
+    "guide": "Take a tour to explore the island's many natural attractions, including waterfalls, beaches, and volcanic craters. Don't miss the traditional Jeju houses and cuisine.",
+    "perks": [
+      "Stunning natural beauty",
+      "Unique culture and traditions",
+      "Outdoor activities like hiking and beach-going"
+    ],
+    "created_at": "2022-03-23T08:00:00.000Z"
+  },
+  {
+    "id": "ba9876543210",
+    "name": "Seoraksan National Park",
+    "slug": "seoraksan-national-park",
+    "state": "Gangwon Province",
+    "country": "South Korea",
+    "continent": "Asia",
+    "address": "Sokcho-si, Gangwon-do, South Korea",
+    "description": "Beautiful national park in South Korea, known for its dramatic mountain scenery and diverse wildlife.",
+    "rating": 4.7,
+    "guide": "Take a guided hike to the top of Mount Seorak for spectacular views. Don't miss the hot springs and Buddhist temples in the area.",
+    "perks": [
+      "Dramatic mountain scenery",
+      "Diverse wildlife",
+      "Hiking and outdoor activities"
+    ],
+    "created_at": "2022-03-23T08:00:02.000Z"
+  }
+]
